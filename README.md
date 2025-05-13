@@ -15,6 +15,7 @@ Bonus Features Added:
 
 2. **Admin Function:** By searching for their name, the admin can view, edit, and delete the profiles of doctors and patients.
 
-![Admin](https://github.com/user-attachments/assets/79d904e3-612e-4a07-a862-e8751d9bdb18)
+* Admin Account for testing: email: admin@gmail.com   Password: Hearmeroar0#
 
+![Admin](https://github.com/user-attachments/assets/79d904e3-612e-4a07-a862-e8751d9bdb18)
 
