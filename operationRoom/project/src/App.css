@@ -1,0 +1,79 @@
+
+.card {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  width: 350px;
+  margin: 0 auto;
+}
+
+
+.loginbody {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #66CDEF, #9E36AC);
+ 
+  padding: 1rem;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  background: #EAE9E9 ;
+ 
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem; 
+}
+
+
+.form-group label {
+  font-size: 0.875rem; 
+  font-weight: 500;
+  color: #333;
+}
+
+.form-input {
+  width: 100%;
+  padding: 0.5rem 0.75rem; 
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem; 
+  font-size: 1rem; 
+  outline: none; 
+  box-sizing: border-box; 
+}
+
+
+.form-input:focus {
+  border-color: #9ca3af; 
+  box-shadow: 0 0 0 1px #9ca3af;
+}
+
+.btn.sign-in-button {
+  width: 100%;
+  padding: 0.5rem 0;
+  margin-top: 0.5rem;
+  background-color: #454545;
+  color: white;
+  border: none;
+  border-radius: 0.375rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.btn.sign-in-button:hover {
+  background-color: #484848;
+}
+

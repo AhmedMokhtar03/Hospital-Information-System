@@ -1,0 +1,12 @@
+.app {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #66CDEF 0%, #9E36AC 100%);
+  }
+  
+  .login-body {
+    padding: 20px;
+  }

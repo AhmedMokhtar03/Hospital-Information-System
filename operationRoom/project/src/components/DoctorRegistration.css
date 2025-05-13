@@ -1,0 +1,90 @@
+
+  
+  .registration-card {
+    background-color: #EAE9E9;;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 470px;
+    margin: 40px auto;
+  
+
+  }
+  .registration-header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .registration-icon {
+    width: 85px;
+    height: 75px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+ 
+  .form-group select {
+    width: 103%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: white;
+    color:#6d6666
+    
+  }
+  
+  .form-row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .form-group.half {
+    width: 47%;
+    margin-bottom: 0;
+  }
+  
+  .birthdate-row {
+    display: flex;
+    gap: 10px;
+    width:99%;
+  }
+  
+  .birthdate-row select {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: white;
+  }
+  
+  
+  .register-btn {
+    width: auto;
+    padding: 10px 30px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    display: block;
+    margin: 20px auto 0;
+    background-color: #454545;
+    border-radius: 8px;
+  }
+  
+  .register-btn:hover {
+    background-color: #515050;
+  }

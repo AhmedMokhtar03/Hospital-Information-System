@@ -1,0 +1,190 @@
+
+
+.registration-card {
+  background-color: #EAE9E9;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  width: 470px;
+  margin: 40px auto;
+}
+
+.registration-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.registration-icon {
+  width: 75px;
+  height: 75px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #333;
+}
+
+.form-group input {
+  width: 95%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+  color: #6d6666;
+}
+
+.form-group select {
+  width: 103%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+  color: #6d6666;
+}
+
+.form-row {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.form-group.half {
+  width: 47%;
+  margin-bottom: 0;
+}
+
+.birthdate-row {
+  display: flex;
+  gap: 10px;
+  width: 99%;
+}
+
+.birthdate-row select {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  background-color: white;
+}
+
+.register-btn {
+  width: auto;
+  padding: 10px 30px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  display: block;
+  margin: 20px auto 0;
+  background-color: #454545;
+  border-radius: 8px;
+}
+
+.register-btn:hover {
+  background-color: #515050;
+}
+
+
+.form-group input[name="ssn"] {
+  letter-spacing: 1px;
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.showpassword {
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+ 
+}
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+  display: none;
+}
+
+input[type="password"]::-webkit-credentials-auto-fill-button,
+input[type="password"]::-webkit-contacts-auto-fill-button {
+  visibility: hidden;
+  display: none !important;
+  pointer-events: none;
+  height: 0;
+  width: 0;
+  margin: 0;
+}
+.error-message {
+  color: #9E36AC;
+  font-size: 12px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.input-error {
+  border: 1px solid #9E36AC !important;
+  background-color: #fff0f0;
+}
+
+.field-error-message {
+  color: #9E36AC;
+  font-size: 0.8rem;
+  margin-top: 4px;
+  font-weight: 500;
+}
+.Marital-Status{
+  width:96%;
+}
+.registration-card {
+  background-color: #EAE9E9;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 90%;
+  max-width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+  box-sizing: border-box;
+}
+
+
+@media (min-width: 1024px) {
+  .registration-card {
+    max-width: 600px; 
+    padding: 30px;
+  }
+}
+
+
+@media (max-width: 500px) {
+  .form-row,
+  .birthdate-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .form-group.half {
+    width: 100%;
+  }
+
+  .form-group input,
+  .form-group select {
+    width: 100%;
+  }
+
+  .register-btn {
+    width: 100%;
+  }
+
+  .showpassword {
+    right: 15px;
+  }
+}
