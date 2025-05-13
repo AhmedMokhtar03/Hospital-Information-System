@@ -8,7 +8,7 @@
 | Amira Yasser Mohamed  | 9230248 |
 | Menna Allah khalifa  | 9231071 |
 
-Video:  [Database-Team7-Phase 2-video](https://drive.google.com/drive/folders/1J5-mJBQz8UzvY0b-pIpy-7pvYKi1MbDO?usp=drive_link)
+Video:  [Database-Team7-Phase 2-video](https://drive.google.com/drive/folders/1Dor6Wa-wTO7PF5oWMS4aLC8ekvAEdTmE)
 
 Bonus Features Added:
 1. **Admin Dashboard:** Shows the Admin's profile details and the statistics of the patients and doctors in the hospital
