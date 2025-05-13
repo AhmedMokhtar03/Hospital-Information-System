@@ -15,5 +15,6 @@ Bonus Features Added:
 
 2. **Admin Function:** By searching for their name, the admin can view, edit, and delete the profiles of doctors and patients.
 
-![Admin.png](![Admin](https://github.com/user-attachments/assets/cc29935d-f44a-4e13-b493-93c6f0c854b3))
+![Admin](https://github.com/user-attachments/assets/79d904e3-612e-4a07-a862-e8751d9bdb18)
+
 
