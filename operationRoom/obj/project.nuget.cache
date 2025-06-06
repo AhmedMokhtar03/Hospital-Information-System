@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zWKH3Ah14aE=",
+  "dgSpecHash": "jnJI89d8N/0=",
   "success": true,
-  "projectFilePath": "E:\\phase1-database-sbe_database_spring25_team07\\operationRoom\\operationRoom.csproj",
+  "projectFilePath": "E:\\Hospital Information System\\Hospital-Information-System\\operationRoom\\operationRoom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.4\\microsoft.aspnetcore.authentication.jwtbearer.9.0.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\phase1-database-sbe_database_spring25_team07\\operationRoom\\operationRoom.csproj": {}
+    "E:\\Hospital Information System\\Hospital-Information-System\\operationRoom\\operationRoom.csproj": {}
   },
   "projects": {
-    "E:\\phase1-database-sbe_database_spring25_team07\\operationRoom\\operationRoom.csproj": {
+    "E:\\Hospital Information System\\Hospital-Information-System\\operationRoom\\operationRoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\phase1-database-sbe_database_spring25_team07\\operationRoom\\operationRoom.csproj",
+        "projectUniqueName": "E:\\Hospital Information System\\Hospital-Information-System\\operationRoom\\operationRoom.csproj",
         "projectName": "operationRoom",
-        "projectPath": "E:\\phase1-database-sbe_database_spring25_team07\\operationRoom\\operationRoom.csproj",
+        "projectPath": "E:\\Hospital Information System\\Hospital-Information-System\\operationRoom\\operationRoom.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\phase1-database-sbe_database_spring25_team07\\operationRoom\\obj\\",
+        "outputPath": "E:\\Hospital Information System\\Hospital-Information-System\\operationRoom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config"
